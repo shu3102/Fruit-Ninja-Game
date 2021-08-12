@@ -1,5 +1,12 @@
 Project Prerequisites
-In this python project, we require pygame, random, sys, and os module of python. Please install pygame and random:
+In this python project, we require 
+pygame, 
+random, 
+sys, and 
+os module of python. 
+
+
+pygame and random:
 
 pip install pygame
 Pip install random
