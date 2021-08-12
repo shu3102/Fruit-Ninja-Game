@@ -1,0 +1,6 @@
+Project Summary
+I have successfully created the fruit ninja game python project. I used the popular pygame library. I learned how to randomly generate fruits in particular positions. I hope you enjoyed building this game project.
+
+It is compiled in Vs code and can also be run on Linux, PyCharm using Pygame Module. 
+This project utilizes various aspects of pygame module.
+It is compiled in Vs code and in Linux, PyCharm.
